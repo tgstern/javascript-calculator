@@ -1,2 +1,4 @@
 # JavaScript Calculator
-Simple calculator application built in JavaScript
+Calculator application built in JavaScript
+
+https://tgstern.github.io/javascript-calculator/calc
